@@ -8,9 +8,12 @@ This repository is for the fourth assignment report for Programming 2.
 ## Main Contents
 
 - [Main.java](https://github.com/kei-academic/report4/blob/main/app/src/main/java/Main.java)
-- [Hero.java](https://github.com/kei-academic/report4/blob/main/app/src/main/java/jp/ac/uryukyu/ie/e215730/Hero.java)
 - [Enemy.java](https://github.com/kei-academic/report4/blob/main/app/src/main/java/jp/ac/uryukyu/ie/e215730/Enemy.java)
+- [Hero.java](https://github.com/kei-academic/report4/blob/main/app/src/main/java/jp/ac/uryukyu/ie/e215730/Hero.java)
+- [LivingThing.java](https://github.com/kei-academic/report4/blob/main/app/src/main/java/jp/ac/uryukyu/ie/e215730/LivingThing.java)
+- [Warrior.java](https://github.com/kei-academic/report4/blob/main/app/src/main/java/jp/ac/uryukyu/ie/e215730/Warrior.java)
 - [EnemyTest.java](https://github.com/kei-academic/report4/blob/main/app/src/test/java/jp/ac/uryukyu/ie/e215730/EnemyTest.java)
+- [WarriorTest.java](https://github.com/kei-academic/report4/blob/main/app/src/test/java/jp/ac/uryukyu/ie/e215730/WarriorTest.java)
 
 ## Tree
 
@@ -27,7 +30,8 @@ This repository is for the fourth assignment report for Programming 2.
 │  │  │  │              ├── App.class
 │  │  │  │              ├── Enemy.class
 │  │  │  │              ├── Hero.class
-│  │  │  │              └── LivingThing.class
+│  │  │  │              ├── LivingThing.class
+│  │  │  │              └── Warrior.class
 │  │  │  └── Main.class
 │  │  └── test
 │  │     └── jp
@@ -36,7 +40,8 @@ This repository is for the fourth assignment report for Programming 2.
 │  │              └── ie
 │  │                 └── e215730
 │  │                    ├── AppTest.class
-│  │                    └── EnemyTest.class
+│  │                    ├── EnemyTest.class
+│  │                    └── WarriorTest.class
 │  ├── build.gradle
 │  └── src
 │     ├── main
@@ -49,7 +54,8 @@ This repository is for the fourth assignment report for Programming 2.
 │     │     │              ├── App.java
 │     │     │              ├── Enemy.java
 │     │     │              ├── Hero.java
-│     │     │              └── LivingThing.java
+│     │     │              ├── LivingThing.java
+│     │     │              └── Warrior.java
 │     │     └── Main.java
 │     └── test
 │        └── java
@@ -59,7 +65,8 @@ This repository is for the fourth assignment report for Programming 2.
 │                    └── ie
 │                       └── e215730
 │                          ├── AppTest.java
-│                          └── EnemyTest.java
+│                          ├── EnemyTest.java
+│                          └── WarriorTest.java
 ├── gradle
 │  └── wrapper
 │     ├── gradle-wrapper.jar
