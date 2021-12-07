@@ -1,4 +1,4 @@
-package jp.ac.uryukyu.ie.e215730;
+import jp.ac.uryukyu.ie.e215730.*;
 
 public class Main2 {
     public static void main(String[] args) {
