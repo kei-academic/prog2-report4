@@ -33,7 +33,8 @@ This repository is for the fourth assignment report for Programming 2.
 │  │  │  │              ├── Hero.class
 │  │  │  │              ├── LivingThing.class
 │  │  │  │              └── Warrior.class
-│  │  │  └── Main.class
+│  │  │  ├── Main.class
+│  │  │  └── Main2.class
 │  │  └── test
 │  │     └── jp
 │  │        └── ac
@@ -57,7 +58,8 @@ This repository is for the fourth assignment report for Programming 2.
 │     │     │              ├── Hero.java
 │     │     │              ├── LivingThing.java
 │     │     │              └── Warrior.java
-│     │     └── Main.java
+│     │     ├── Main.java
+│     │     └── Main2.java
 │     └── test
 │        └── java
 │           └── jp
