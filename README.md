@@ -8,6 +8,7 @@ This repository is for the fourth assignment report for Programming 2.
 ## Main Contents
 
 - [Main.java](https://github.com/kei-academic/report4/blob/main/app/src/main/java/Main.java)
+- [Main2.java](https://github.com/kei-academic/report4/blob/main/app/src/main/java/Main2.java)
 - [Enemy.java](https://github.com/kei-academic/report4/blob/main/app/src/main/java/jp/ac/uryukyu/ie/e215730/Enemy.java)
 - [Hero.java](https://github.com/kei-academic/report4/blob/main/app/src/main/java/jp/ac/uryukyu/ie/e215730/Hero.java)
 - [LivingThing.java](https://github.com/kei-academic/report4/blob/main/app/src/main/java/jp/ac/uryukyu/ie/e215730/LivingThing.java)
